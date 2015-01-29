@@ -1,0 +1,3 @@
+fastech_cms_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FastechCMSBundle:Default:index }
